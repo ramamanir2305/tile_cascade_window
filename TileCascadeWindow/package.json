@@ -1,0 +1,22 @@
+{
+  "name": "tilecascadewindow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramamanir2305/tile_cascade_window.git"
+  },
+  "author": "Ramamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramamanir2305/tile_cascade_window/issues"
+  },
+  "homepage": "https://github.com/ramamanir2305/tile_cascade_window#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
